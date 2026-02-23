@@ -40,22 +40,6 @@ My long-term goal is to create immersive, story-driven games that focus on atmos
 - Puzzle Logic Design
 - UI Systems
 
-### Tools & Software
-- Git & GitHub
-- VS Code
-- Blender (3D Modeling)
-- Linux / Unix Command Line
-
----
-
-## 🌱 Currently Learning
-- Game architecture & design patterns
-- Code optimization techniques
-- Full-stack backend structure
-- Database design concepts
-- Level design and player psychology
-- User experience principles
-
 ---
 
 ## 🎯 Goals
