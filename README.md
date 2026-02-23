@@ -1,33 +1,87 @@
-👋 Hi, I'm Rudra!
-I am a passionate Web Developer and Aspiring Game Developer. I build dynamic web applications (using React and Node.js) and dream of creating immersive, story-driven games with Unity and C#. I enjoy learning new technologies and solving challenging problems.
+<h1 align="center">Hi 👋, I'm Rudra</h1>
+<h3 align="center">Web Developer • Aspiring Game Developer • Problem Solver</h3>
 
-🧰 Tech Skills
+<p align="center">
+I enjoy building interactive web applications and learning how complex systems work.  
+My long-term goal is to create immersive, story-driven games that focus on atmosphere, psychology, and player experience rather than just action.
+</p>
 
-Programming Languages: C#, JavaScript, HTML, CSS
-Game Development: Unity Engine
-Web Development: React.js, Node.js, Express.js
-Tools & Software: Blender (3D modeling), Git & GitHub, VS Code
-Other: SQL, Linux/Unix command line
+---
 
-🌱 Currently Learning
+## 🧠 About Me
+- Passionate about technology and how systems are designed internally
+- Interested in both **software engineering** and **game development**
+- I like solving logical problems and designing structured solutions
+- Focused on writing scalable and optimized code
+- I believe good software = clean architecture + good user experience
 
-Game architecture and design patterns for scalable development
-Performance optimization techniques in Unity
-Advanced full-stack web development (APIs, databases)
-Level design, storytelling, and user experience
+---
 
-🎯 Future Goals
+## 🛠️ Tech Skills
 
-Build immersive web and gaming experiences that captivate users
-Create unique psychological horror games with rich narratives
-Contribute to open-source projects and game jams to collaborate with others
-Continuously improve my skills in both game development and web technologies
+### Programming Languages
+- C#
+- JavaScript
+- HTML
+- CSS
+- SQL
 
-📊 GitHub Stats
-[Rudra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rudra-Prajapati1&show_icons=true&theme=tokyonight)
+### Web Development
+- React.js
+- Node.js
+- Express.js
+- REST APIs
+- Basic Authentication Systems
 
-🔥 GitHub Streak
-[GitHub Streak](https://streak-stats.demolab.com/?user=Rudra-Prajapati1&theme=tokyonight)
+### Game Development
+- Unity Engine
+- C# Scripting
+- Game State Management
+- Puzzle Logic Design
+- UI Systems
 
-👀 Profile Views
-[Profile Views](https://komarev.com/ghpvc/?username=Rudra-Prajapati1&color=blue)
+### Tools & Software
+- Git & GitHub
+- VS Code
+- Blender (3D Modeling)
+- Linux / Unix Command Line
+
+---
+
+## 🌱 Currently Learning
+- Game architecture & design patterns
+- Code optimization techniques
+- Full-stack backend structure
+- Database design concepts
+- Level design and player psychology
+- User experience principles
+
+---
+
+## 🎯 Goals
+- Become a professional software developer
+- Master scalable application architecture
+- Create meaningful interactive experiences
+- Develop deep understanding of systems, not just frameworks
+- Build high-quality immersive games in the future
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rudra-Prajapati1&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Rudra-Prajapati1&theme=tokyonight" />
+</p>
+
+---
+
+## 👀 Profile Visitors
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rudra-Prajapati1&color=blue&style=for-the-badge" />
+</p>
