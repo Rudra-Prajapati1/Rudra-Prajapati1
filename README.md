@@ -8,15 +8,6 @@ My long-term goal is to create immersive, story-driven games that focus on atmos
 
 ---
 
-## 🧠 About Me
-- Passionate about technology and how systems are designed internally
-- Interested in both **software engineering** and **game development**
-- I like solving logical problems and designing structured solutions
-- Focused on writing scalable and optimized code
-- I believe good software = clean architecture + good user experience
-
----
-
 ## 🛠️ Tech Skills
 
 ### Programming Languages
