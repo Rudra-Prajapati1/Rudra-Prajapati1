@@ -42,13 +42,6 @@ My long-term goal is to create immersive, story-driven games that focus on atmos
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rudra-Prajapati1&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
 ## 🔥 GitHub Streak
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Rudra-Prajapati1&theme=tokyonight" />
