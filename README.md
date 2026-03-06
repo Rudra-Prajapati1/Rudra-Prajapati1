@@ -24,14 +24,6 @@ Git • GitHub • VS Code • Blender • Linux CLI
 
 ---
 
-### 🎯 Focus
-- Scalable code & clean architecture
-- Backend logic & APIs
-- Game systems and mechanics
-- Problem solving & optimization
-
----
-
 ### 🔥 GitHub Streak
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Rudra-Prajapati1&theme=tokyonight" />
